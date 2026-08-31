@@ -1,0 +1,18 @@
+{
+  "default_branch": "consolidation-pattern",
+  "branches": [
+    "consolidation-pattern",
+    "fix/issue-371-docs-write-docs-architecture-escrow-lifecycle-md",
+    "origin"
+  ],
+  "parent": {
+    "consolidation-pattern": null,
+    "fix/issue-371-docs-write-docs-architecture-escrow-lifecycle-md": "consolidation-pattern",
+    "origin": "consolidation-pattern"
+  },
+  "order": [
+    "consolidation-pattern",
+    "fix/issue-371-docs-write-docs-architecture-escrow-lifecycle-md",
+    "origin"
+  ]
+}
